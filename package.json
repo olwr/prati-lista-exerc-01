@@ -1,0 +1,18 @@
+{
+  "name": "lista-exerc-01",
+  "version": "1.0.0",
+  "description": "lista de exercícios 01 +prati",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "node ./temp/test.js",
+    "build": "npm install inquirer && npm install prompt-sync",
+    "start": "node main.js"
+  },
+  "author": "Oliver Benites",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^12.6.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
