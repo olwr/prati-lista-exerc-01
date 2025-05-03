@@ -16,7 +16,7 @@ Para rodar este projeto na sua máquina é necessário fazer a instalação do [
 
 ```bash
 cd sua-pasta
-git clone [https](https://github.com/olwr/prati-lista-exerc-01.git)
+git clone https://github.com/olwr/prati-lista-exerc-01.git
 ```
 
 2. Execute o script para baixar as dependências necessárias:
