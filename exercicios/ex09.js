@@ -1,6 +1,3 @@
-import PromptSync from "prompt-sync";
-const prompt = PromptSync();
-
 const welcome = () => {
   console.log('Exercício 9: Contagem Regressiva.');
   console.log('O seguinte código exibe uma contagem regressiva de 10 até 1. \n');

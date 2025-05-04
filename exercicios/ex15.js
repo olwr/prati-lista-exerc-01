@@ -1,12 +1,11 @@
-import PromptSync from "prompt-sync";
-const prompt = PromptSync();
-
 const welcome = () => {
-  console.log('Exercício 12: Printa Tabuada.');
-  console.log('O seguinte código recebe um número e print sua tabuada até 10. \n');
+  console.log('Exercício 15: Fibonacci.');
+  console.log('O seguinte código apresenta os primeiros 10 números da sequência de Fibonacci. \n');
 }
 
 const fibonacci = () => {
+  welcome();
+
   const fibonacci = [0, 1];
 
   for (let i = 2; i <= 9; i++) {

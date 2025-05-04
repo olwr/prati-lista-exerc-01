@@ -1,4 +1,3 @@
-// ler 2 valores diferentes, escrever em ordem crescente
 import PromptSync from "prompt-sync";
 const prompt = PromptSync();
 
